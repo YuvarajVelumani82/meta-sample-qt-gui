@@ -5,7 +5,7 @@ HOMEPAGE = "https://github.com/YuvarajVelumani82/sampleqtgui-app"
 SECTION = "app"
 
 LICENSE = "MIT"
-#LIC_FILES_CHKSUM="file://LICENSE;md5="
+LIC_FILES_CHKSUM="file://LICENSE;md5=d209ab822c4151f8b834aef9ec8afa05"
 
 inherit cmake_qt5 update-rc.d
 
@@ -26,7 +26,7 @@ S = "${WORKDIR}/git"
 
 do_install_append() {
   install -d ${D}${sysconfdir}/init.d/
-  install -m 0755 ${WORKDIR}/cuteradio ${D}${sysconfdir}/init.d/sampleqtgui
+  install -m 0755 ${WORKDIR}/sampleqtgui ${D}${sysconfdir}/init.d/sampleqtgui
 }
 
 
