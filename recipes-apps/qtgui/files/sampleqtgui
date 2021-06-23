@@ -3,7 +3,7 @@
 . /etc/init.d/functions
 
 do_start() {
-	/usr/local/bin/sampleqtgui -platform eglfs &
+	/usr/bin/sampleqtgui -platform eglfs &
 }
 
 do_stop() {

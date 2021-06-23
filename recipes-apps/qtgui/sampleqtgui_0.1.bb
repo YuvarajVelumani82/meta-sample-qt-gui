@@ -14,7 +14,7 @@ SRC_URI = "\
     file://sampleqtgui \
 "
 
-SRCREV = "4cd58a846fa4c2f5b8fbb89945476ab1bea3213c"
+SRCREV = "b493cb29ab5887f1b1ab60fa19ffa4b6f6cd8fff"
 
 PV = "0.1+git${SRCREV}"
 
