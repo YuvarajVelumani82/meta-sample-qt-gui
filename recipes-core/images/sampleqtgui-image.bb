@@ -12,9 +12,9 @@ IMAGE_FEATURES += "\
 "
 
 IMAGE_INSTALL += " \
-    packagegroup-simpleqtgui-devtools \
+    packagegroup-sampleqtgui-devtools \
     packagegroup-qml-basic \
-    simpleqtgui \
+    sampleqtgui \
 "
 
 # Add an extra 0.5 GB of free space to the root filesystem

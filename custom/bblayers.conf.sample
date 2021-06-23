@@ -15,6 +15,7 @@ BBLAYERS ?= " \
   ${TOPDIR}/../sources/meta-openembedded/meta-python \
   ${TOPDIR}/../sources/meta-raspberrypi \
   ${TOPDIR}/../sources/meta-security \
+  ${TOPDIR}/../sources/meta-jumpnow \
   ${TOPDIR}/../sources/meta-qt5 \
   ${TOPDIR}/../sources/meta-rpi \
   ${TOPDIR}/../sources/meta-sample-qt-gui \

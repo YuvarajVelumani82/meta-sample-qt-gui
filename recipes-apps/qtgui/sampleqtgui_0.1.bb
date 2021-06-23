@@ -13,7 +13,8 @@ SRC_URI = "\
     git://github.com/YuvarajVelumani82/sampleqtgui-app.git;branch=master;protocol=https \
     file://sampleqtgui \
 "
-#SRCREV = "433d25ac8bc4653cbc31cd4b6eed5592c9a90f1a"
+
+SRCREV = "4cd58a846fa4c2f5b8fbb89945476ab1bea3213c"
 
 PV = "0.1+git${SRCREV}"
 

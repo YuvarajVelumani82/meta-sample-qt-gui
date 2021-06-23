@@ -1,4 +1,4 @@
-DESCRIPTION = "Tools for target device during SimpleQtGui development"
+DESCRIPTION = "Tools for target device during SampleQtGui development"
 LICENSE = "MIT"
 PR = "r0"
 
