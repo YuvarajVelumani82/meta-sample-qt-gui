@@ -10,4 +10,7 @@ RDEPENDS_${PN} = " \
     qtdeclarative \
     qtdeclarative-qmlplugins \
     qtquickcontrols2 \
+    qtgraphicaleffects \
+    qtimageformats \
+    qtmultimedia \
 "
